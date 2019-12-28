@@ -1,0 +1,48 @@
+
+body {
+	background-image: url(../img/title.jpg);
+  background-position: center center ;
+  background-repeat: no-repeat; 
+  background-attachment: fixed;
+  background-size: cover; 
+  background-color: #000000; 
+}
+
+.section {
+	position: fixed;
+  top: 80%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+ }
+
+.container .fa {
+  color: #ffff;
+  margin-top: 10px;
+  transition: all 1s ease;
+}
+
+.container .icons-instagram:hover .fa-instagram {
+	color: #6c6c6c;
+  text-shadow: 0 0 20px #3b5998;
+  transition: all 1s ease;
+}
+
+.container  .fa {
+  color: #ffff;
+  margin-top: 10px;
+  transition: all 1s ease;
+}
+.container .icons-youtube:hover .fa-youtube-play {
+	color: #6c6c6c;
+  text-shadow: 0 0 20px #3b5998;
+  transition: all 1s ease;
+}
+
+.container .icons-bandcamp:hover .fa-headphones {
+	color: #6c6c6c;
+  text-shadow: 0 0 20px #3b5998;
+  transition: all 1s ease;
+}
+
+
+
